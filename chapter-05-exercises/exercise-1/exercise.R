@@ -6,7 +6,7 @@ hometown <- "Rochester, MN"
 
 # Assign your name to the variable `my_name`
 
-my_name <- "Ryan Krause"
+my_name <- "Ryan Krause" # adding more comments to check out GitLens
 
 # Assign your height (in inches) to a variable `my_height`
 
